@@ -323,7 +323,7 @@ nav a:hover { color: var(--color-text-dark); }
 }
 
 .list-wrapper h3 {
-    font-size: 1.125rem;
+    font-size: 1.5rem;
     font-weight: 700;
     margin-bottom: 2vw;
     color: var(--color-accent-green); 
